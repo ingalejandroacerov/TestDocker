@@ -1,0 +1,14 @@
+name: CI
+on:
+  pull_request:
+    branches:
+      - develop
+      - master
+      - release
+jobs:
+  built:
+    runs-on: ubuntu-latest
+    step:
+      - uses: actions/checkout@v5
+        name: Descar
+
