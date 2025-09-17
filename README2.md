@@ -43,7 +43,7 @@ Creamos e instalamos el entorno de desarrollo de k8s configurado anteriormente e
 
 * Codigo:
   
- :link: [Ir a deployment.yaml](charts/pedido-app/templates/deployment.yaml)
+ :link: [Ir a deployment.yaml](...)
 
 
 * Consola:
