@@ -42,9 +42,9 @@ dependencies:
 Creamos e instalamos el entorno de desarrollo de k8s configurado anteriormente en deployment.yaml
 
 * Codigo:
-  `
- :link: [Ir a deployment.yaml](...)
-`
+  
+ :link: [Ir a deployment.yaml](charts/pedido-app/templates/deployment.yaml)
+
 
 * Consola:
 
