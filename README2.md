@@ -15,8 +15,9 @@
 
 
 
-
-
+#### AAAAAAAAAAAAAA;
+* JIame
+* das
 
 ## 1. Instalación del chart manualmente con Helm.
 
@@ -45,6 +46,10 @@ Creamos e instalamos el entorno de desarrollo de k8s configurado anteriormente e
   
  :link: [Ir a deployment.yaml](charts/pedido-app/templates/deployment.yaml)
 
+| Repositorios |
+|--------------|
+| ONU          |
+|  :link: [Ir a deployment.yaml](charts/pedido-app/templates/deployment.yaml)          |
 
 * Consola:
 
@@ -54,6 +59,7 @@ kubectl create ...
 
 ##  2. Configuración para sincronizar ArgoCD
 
+![alt text](https://github.com/ingalejandroacerov/TestDocker/blob/main/Untitled-2025-08-14-2001.png)
 
 ##  3. Endpoints de acceso (backend)
 
